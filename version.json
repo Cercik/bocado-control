@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "build_number": 1,
+  "release_date": "2025-11-30",
+  "download_url": "https://github.com/Cercik/bocado-control/releases/download/v1.0.0/app-release.apk",
+  "release_notes": "🎉 Release inicial\n- Login con GitHub\n- Control remoto de activación\n- Validación DNI 8 dígitos\n- Exportación a Excel\n- Feedback sonoro"
+}
