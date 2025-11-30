@@ -2,7 +2,7 @@
   "users": [
     {
       "username": "Admin",
-      "password": "12345",
+      "password": "123456",
       "role": "admin",
       "nombre": "Administrador"
     }
